@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Samuel Juma a Freelance Java developer
+- 👋 Hi, I’m Samuel Juma a Freelance Java developer| Android developer
 
 <!---
 samueljuma/samueljuma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
