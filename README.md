@@ -1,8 +1,6 @@
 👋 Hi, I’m Samuel Juma a Freelance Java developer| Android developer
 #### Stats📝📒
-[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samueljuma)](https://github.com/samueljuma/github-readme-stats)
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samueljuma&show_icons=true)
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samueljuma&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samueljuma&layout=compact)](https://github.com/samueljuma/github-readme-stats)
 
 
