@@ -5,7 +5,7 @@
 
 #### Connect 🌎
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/samueljuma/)](https://www.linkedin.com/in/samueljuma/) 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jumasam)](https://twitter.com/_jumasam)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jumasamuel)](https://twitter.com/_jumasamuel)
 
 
 
