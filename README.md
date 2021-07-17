@@ -1,5 +1,5 @@
-👋 Hi, I’m <b>Samuel Juma</b> a Freelance Java developer| Android developer
-📝 I am currently Leaernin dependncy injection and testing in Android with Kotlin
+👋 Hi, I’m <b>Samuel Juma</b> a Freelance Java developer| Android developer<br>
+📝 I am currently Leaernin dependncy injection and testing in Android with Kotlin <br>
 📝 I am currently learning React Js
 ### Stats 📝📒
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samueljuma&show_icons=true)
