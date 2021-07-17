@@ -1,4 +1,4 @@
-👋 Hi, I’m <b>Samuel Juma<b> a Freelance Java developer| Android developer
+👋 Hi, I’m <b>Samuel Juma</b> a Freelance Java developer| Android developer
 📝 I am currently Leaernin dependncy injection and testing in Android with Kotlin
 📝 I am currently learning React Js
 ### Stats 📝📒
