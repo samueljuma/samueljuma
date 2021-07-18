@@ -1,4 +1,7 @@
 👋 Hi, I’m <b>Samuel Juma</b> a Freelance Java developer| Android developer<br>
+* ✨ I am currently Learning React js
+* ✨ I am currently leraning testing and dependency injection in Android with Kotlin
+* ✨ I am open to gigs ![See Profile](https://www.linkedin.com/in/samueljuma/) 
 
 ### Stats 📝📒
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samueljuma&show_icons=true)
