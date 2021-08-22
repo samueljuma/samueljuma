@@ -1,4 +1,5 @@
 👋 Hi, I’m <b>Samuel Juma</b> a Freelance Java developer| Android developer<br>
+* ✨ I am working on the [Writer's Diary App](https://github.com/samueljuma/Writters-Diary)  
 * ✨ I am currently Learning testing and dependency injection in Android with Kotlin
 * ✨ I recently Learnt some React js
 * ✨ I am open to gigs [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/samueljuma/)](https://www.linkedin.com/in/samueljuma/) 
