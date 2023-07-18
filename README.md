@@ -1,5 +1,6 @@
-👋 Hi, I’m <b>Samuel Juma</b> a Freelance Java developer| Android developer<br>
-* ✨ Tried the MVVM architecture here:  [Writer's Diary App](https://github.com/samueljuma/Writters-Diary)  
+👋 Hi, I’m <b>Samuel Juma</b>. Let's do this. <b>Shall we?</b> <br>
+* ✨ What am I working on currently? [Movie App](https://github.com/samueljuma/MovieApp)  
+* ✨ MVVM architecture in Action:  [Writer's Diary App](https://github.com/samueljuma/Writters-Diary)  
 * ✨ I am open to gigs [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/samueljuma/)](https://www.linkedin.com/in/samueljuma/) 
 
 ### Stats 📝📒
