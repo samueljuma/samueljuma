@@ -4,7 +4,7 @@
 * ✨ I am open to gigs [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/samueljuma/)](https://www.linkedin.com/in/samueljuma/) 
 
 ### Stats 📝📒
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samueljuma&show_icons=true)
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samueljuma&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samueljuma&layout=compact)](https://github.com/samueljuma/github-readme-stats)
 
 ### Connect 🌎
