@@ -9,7 +9,10 @@
 
 * ✨ I am currently learning **Jetpack Compose** and **Kotlin Multiplatform**
   
-* 🔭 My most recent Project: [**Upcoming Movies App**](https://github.com/samueljuma/Upcoming-Movies)
+* 🔭 My most recent Projects:
+  * [**Upcoming Movies App**](https://github.com/samueljuma/Upcoming-Movies)
+  * [**SuperStocks**](https://github.com/samueljuma/SuperStocks)
+  * [**Petsy**](https://github.com/samueljuma/PetApp)
 
 * 🎗️ Recent Achievements: Just completed the **Android Kotlin Developer Udacity | Nanodegree program**
   
