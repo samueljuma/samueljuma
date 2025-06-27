@@ -9,10 +9,9 @@
 
 * ✨ I am currently learning **Kotlin Multiplatform** and **Django** for APIs
   
-* 🔭 My most recent Projects:
+* 🔭 Sample Projects:
   * [**Upcoming Movies App**](https://github.com/samueljuma/Upcoming-Movies)
-  * [**SuperStocks**](https://github.com/samueljuma/SuperStocks)
-  * [**Petsy**](https://github.com/samueljuma/PetApp)
+  * [**GMS API**](https://gms-production-2961.up.railway.app/swagger/)
   
 * 💬 Ask me about **Android, Kotlin** , **Python** **Django**
   
