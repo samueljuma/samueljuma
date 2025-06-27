@@ -11,7 +11,7 @@
   
 * 🔭 Sample Projects:
   * [**Upcoming Movies App**](https://github.com/samueljuma/Upcoming-Movies)
-  * [**GMS API**](https://lets-talk-)
+  * [**GMS API**]([https://lets-talk-](https://www.linkedin.com/posts/samueljuma_gms-android-alxbe-activity-7333763687721107458-uVEY?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgICs0BlfF1FWVJGXDTLjA8tHTSpxL1WS4))
   
 * 💬 Ask me about **Android, Kotlin** , **Python** **Django**
   
