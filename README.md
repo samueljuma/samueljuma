@@ -1,5 +1,5 @@
 <h1 align="center"> Hello 👋, I am Samuel Juma. </h1>
-<h3 align="center">An Android Developer based in Nairobi, Kenya. </h3>
+<h3 align="center">A fullstack Mobile Engineer based in Nairobi, Kenya. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samueljuma&label=Profile%20views&color=0e75b6&style=flat" alt="samueljuma" /> </p>
 
@@ -7,16 +7,14 @@
 
 
 
-* ✨ I am currently learning **Jetpack Compose** and **Kotlin Multiplatform**
+* ✨ I am currently learning **Kotlin Multiplatform** and **Django** for APIs
   
 * 🔭 My most recent Projects:
   * [**Upcoming Movies App**](https://github.com/samueljuma/Upcoming-Movies)
   * [**SuperStocks**](https://github.com/samueljuma/SuperStocks)
   * [**Petsy**](https://github.com/samueljuma/PetApp)
-
-* 🎗️ Recent Achievements: Just completed the **Android Kotlin Developer Udacity | Nanodegree program**
   
-* 💬 Ask me about **Android, Kotlin**
+* 💬 Ask me about **Android, Kotlin** , **Python** **Django**
   
 * ✉️ How to reach me **samueljuma1024@gmail.com**
   
