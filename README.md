@@ -11,7 +11,7 @@
   
 * 🔭 Sample Projects:
   * [**Upcoming Movies App**](https://github.com/samueljuma/Upcoming-Movies)
-  * [**GMS API**](https://gms-production-2961.up.railway.app/swagger/)
+  * [**GMS API**](https://lets-talk-)
   
 * 💬 Ask me about **Android, Kotlin** , **Python** **Django**
   
